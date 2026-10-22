@@ -1,0 +1,4 @@
+yt-dlp>=2026.10.21
+requests>=2.31.0
+qrcode>=8.0
+pillow>=10.0.0

@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: video-script-studio
+    env: docker
+    plan: free
+    region: oregon
+    autoDeploy: true
